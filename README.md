@@ -1,4 +1,4 @@
-# symmetrical-bassoon
+# Discord Bot
 >This is a discord bot that I made, and you can make it sing, and it can make you rich.
 >This bot only has 2 commands, but you can add more.
 >
